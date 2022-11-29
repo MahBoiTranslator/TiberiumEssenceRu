@@ -2,10 +2,10 @@
 
 : Сборка и копирование файлов локализации
 call BuildWithoutMaps.bat
-xcopy /h /y /c /r /s ..\Translation\GenEvo_B0.3_English.big %USERPROFILE%\Documents\"Red Alert 3"\Mods\GenEvo\GenEvo_B0.3_English.big
+xcopy /h /y /c /r /s ..\Translation\TibEss_v2.0_Russian.big %USERPROFILE%\Documents\"Command & Conquer 3 Tiberium Wars"\Mods\TiberiumEssence2\TibEss_v2.0_Russian.big
 
 : Задержка необходима для того, чтобы файлы успели скопироваться
 timeout /t 3
 
 : Запуск игры
-start %USERPROFILE%\Documents\"Red Alert 3"\Mods\GenEvo\GenEvoLauncher.exe
+start C:\"Program Files (x86)"\Steam\steamapps\common\Command and Conquer 3 Tiberium Wars\cnc3.exe -ui
