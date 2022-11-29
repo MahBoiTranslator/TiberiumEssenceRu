@@ -2,8 +2,8 @@
 
 : Сборка и копирование файлов локализации
 @call BuildWithoutMaps.bat
-xcopy /h /y /c /r /s ..\Translation\Launcher\*              %USERPROFILE%\Documents\"Command & Conquer 3 Tiberium Wars"\Mods\GenEvo\Launcher\*
-xcopy /h /y /c /r /s ..\Translation\TibEss_v2.0_Russian.big %USERPROFILE%\Documents\"Command & Conquer 3 Tiberium Wars"\Mods\TiberiumEssence2\TibEss_v2.0_Russian.big
+xcopy /h /y /c /r /s ..\Translation\TibEss_v2.0_Russian.big    %USERPROFILE%\Documents\"Command & Conquer 3 Tiberium Wars"\Mods\TiberiumEssence2\TibEss_v2.0_Russian.big
+xcopy /h /y /c /r /s ..\Translation\TiberiumEssence_2.0.skudef %USERPROFILE%\Documents\"Command & Conquer 3 Tiberium Wars"\Mods\TiberiumEssence2\TiberiumEssence_2.0.skudef
 @call CopyMapsToAppdata.bat
 
 : Задержка необходима для того, чтобы файлы успели скопироваться
