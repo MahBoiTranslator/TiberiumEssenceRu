@@ -10,4 +10,4 @@ xcopy /h /y /c /r /s ..\Translation\TiberiumEssence_2.0.skudef %USERPROFILE%\Doc
 timeout /t 3
 
 : Запуск игры
-@start %USERPROFILE%\Documents\"Command & Conquer 3 Tiberium Wars"\Mods\GenEvo\GenEvoLauncher.exe
+@start %USERPROFILE%\Desktop\"Command and Conquer 3 Tiberium Wars.url"

@@ -9,4 +9,4 @@ xcopy /h /y /c /r /s ..\Translation\TiberiumEssence_2.0.skudef %USERPROFILE%\Doc
 timeout /t 3
 
 : Запуск игры
-start C:\"Program Files (x86)"\Steam\steamapps\common\Command and Conquer 3 Tiberium Wars\cnc3.exe -ui
+@start %USERPROFILE%\Desktop\"Command and Conquer 3 Tiberium Wars.url"
