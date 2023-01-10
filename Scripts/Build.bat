@@ -14,3 +14,4 @@ mkdir Translation\Maps
 xcopy /h /y /c /r /s Source\Maps\* Translation\Maps\*
 del Translation\Maps\*.md Translation\Maps\*.str
 del /a:h Translation\Maps\.git
+rmdir /s /q Translation\Maps\.github
