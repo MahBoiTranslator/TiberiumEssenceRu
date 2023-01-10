@@ -15,8 +15,8 @@
 	- видео
 	- озвучка
 
-Локализатор поддерживает перевод следующих карт:
-* [Text Sample](https://github.com/MahBoiTranslator/TiberiumEssenceRu)
+Локализатор поддерживает перевод следующих карт и кампаний:
+* [TS Slavik vs Hassan Campaign](https://www.moddb.com/mods/tiberium-essence/addons/te-ts-slavik-vs-hassan-campaign-16-complete)
 
 ## Описание установки
 Файлы из папки Maps скопируйте в папку по пути `%appdata%\Command & Conquer 3 Tiberium Wars\Maps`.
