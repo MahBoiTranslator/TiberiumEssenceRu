@@ -1,4 +1,4 @@
-Русификатор мода Tiberium Essence на Tiberium Wars версии 2.0
+Русификатор мода Tiberium Essence на Tiberium Wars версии 2.0 alpha
 
 Описание локализатора
 	Данный локализатор является неофициальным языковым патчем для мода Tiberium
@@ -16,8 +16,9 @@
 
 	Для работы переведённых карт их оригиналы с moddb не требуются.
 
-	Локализатор поддерживает перевод следующих карт:
-		TS Slavik vs Hassan Campaign: https://www.moddb.com/mods/tiberium-essence/addons/te-ts-slavik-vs-hassan-campaign-16-complete
+	Локализатор поддерживает перевод следующих карт и кампаний:
+		TS Slavik vs Hassan Campaign:        https://www.moddb.com/mods/tiberium-essence/addons/te-ts-slavik-vs-hassan-campaign-16-complete
+		Act I ZOCOM: The War That Never Was: https://www.moddb.com/mods/tiberium-essence/addons/te-zocom-origin
 
 	Актуальную версию локализатора можно скачать с репозитория на гитхабе: 
 		https://github.com/MahBoiTranslator/TiberiumEssenceRu

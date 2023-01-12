@@ -17,6 +17,7 @@
 
 Локализатор поддерживает перевод следующих карт и кампаний:
 * [TS Slavik vs Hassan Campaign](https://www.moddb.com/mods/tiberium-essence/addons/te-ts-slavik-vs-hassan-campaign-16-complete)
+* [Act I ZOCOM: The War That Never Was](https://www.moddb.com/mods/tiberium-essence/addons/te-zocom-origin)
 
 ## Порядок установки
 Для полного погружения и избежания какафонии из русской и английской озвучек игры, следует запускать C&C 3: Tiberium Wars на английском языке. Чтобы это сделать, запустите лаунчер игры с аргументом `-ui`, а затем во вкладке `Выбор языка` поставьте `English`.
