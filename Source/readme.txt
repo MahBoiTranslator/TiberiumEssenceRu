@@ -17,8 +17,11 @@
 	Для работы переведённых карт их оригиналы с moddb не требуются.
 
 	Локализатор поддерживает перевод следующих карт и кампаний:
-		TS Slavik vs Hassan Campaign:        https://www.moddb.com/mods/tiberium-essence/addons/te-ts-slavik-vs-hassan-campaign-16-complete
-		Act I ZOCOM: The War That Never Was: https://www.moddb.com/mods/tiberium-essence/addons/te-zocom-origin
+		TS Slavik vs Hassan Campaign        : https://www.moddb.com/mods/tiberium-essence/addons/te-ts-slavik-vs-hassan-campaign-16-complete
+		Act I ZOCOM: The War That Never Was : https://www.moddb.com/mods/tiberium-essence/addons/te-zocom-origin
+		Tiberian Sun Missions               : https://www.moddb.com/mods/tiberian-sun-missions-te
+		NOD Blue Fase                       : https://www.moddb.com/mods/tiberium-essence/addons/te-nod-blue-fase
+
 
 	Актуальную версию локализатора можно скачать с репозитория на гитхабе: 
 		https://github.com/MahBoiTranslator/TiberiumEssenceRu
