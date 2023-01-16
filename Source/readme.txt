@@ -21,7 +21,7 @@
 		Act I ZOCOM: The War That Never Was : https://www.moddb.com/mods/tiberium-essence/addons/te-zocom-origin
 		Tiberian Sun Missions               : https://www.moddb.com/mods/tiberian-sun-missions-te
 		NOD Blue Fase                       : https://www.moddb.com/mods/tiberium-essence/addons/te-nod-blue-fase
-
+		Villainess In Distress              : https://www.moddb.com/mods/tiberium-essence/addons/te-villainess-in-distress
 
 	Актуальную версию локализатора можно скачать с репозитория на гитхабе: 
 		https://github.com/MahBoiTranslator/TiberiumEssenceRu
