@@ -26,6 +26,7 @@
 * [Revenge of the Forgotten](https://www.moddb.com/games/cc-tiberium-wars/addons/revenge-of-the-forgotten)
 * [TS Secure Crash Site](https://www.moddb.com/mods/co-op-tiberian-sun-map-pack/addons/te-1-6-tiberian-sun-secure-the-crash-site-v14)
 * [COOP Evacuation](https://www.moddb.com/games/cc-tiberium-wars/addons/coop-evacuation-co-operative-mission)
+* [Just The Beginning](https://www.moddb.com/groups/tiberium-essence-campaign-makers/addons/just-the-beginning)
 
 ## Порядок установки
 Для полного погружения и избежания какафонии из русской и английской озвучек игры, следует запускать C&C 3: Tiberium Wars на английском языке. Чтобы это сделать, запустите лаунчер игры с аргументом `-ui`, а затем во вкладке `Выбор языка` поставьте `English`.
