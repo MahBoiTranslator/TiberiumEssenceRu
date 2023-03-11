@@ -29,7 +29,7 @@
 		COOP Evacuation                     : https://www.moddb.com/games/cc-tiberium-wars/addons/coop-evacuation-co-operative-mission
 		Just The Beginning                  : https://www.moddb.com/groups/tiberium-essence-campaign-makers/addons/just-the-beginning
 		Enhanced Mission Pack 1             : https://www.moddb.com/groups/tiberium-essence-fans/addons/tiberium-essence-mission-pack-1-enhanced
-
+		The War To End All Wars             : https://www.moddb.com/games/cc-tiberium-wars/addons/the-war-to-end-all-wars1
 
 	Актуальную версию локализатора можно скачать с репозитория на гитхабе: 
 		https://github.com/MahBoiTranslator/TiberiumEssenceRu
