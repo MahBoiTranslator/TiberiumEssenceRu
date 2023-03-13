@@ -31,6 +31,7 @@
 * [The War To End All Wars](https://www.moddb.com/games/cc-tiberium-wars/addons/the-war-to-end-all-wars1)
 * [Desperate Times](https://www.moddb.com/games/cc-tiberium-wars/addons/desperate-times)
 * [Tiberium Blood](https://www.moddb.com/groups/tiberium-essence-fans/addons/tiberium-blood)
+* [Montauk Assembly Defense](https://www.moddb.com/mods/tiberium-essence/addons/montauk-assembly-defense)
 
 ## Порядок установки
 Для полного погружения и избежания какафонии из русской и английской озвучек игры, следует запускать C&C 3: Tiberium Wars на английском языке. Чтобы это сделать, запустите лаунчер игры с аргументом `-ui`, а затем во вкладке `Выбор языка` поставьте `English`.

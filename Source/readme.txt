@@ -32,6 +32,7 @@
 		The War To End All Wars             : https://www.moddb.com/games/cc-tiberium-wars/addons/the-war-to-end-all-wars1
 		Desperate Times                     : https://www.moddb.com/games/cc-tiberium-wars/addons/desperate-times
 		Tiberium Blood                      : https://www.moddb.com/groups/tiberium-essence-fans/addons/tiberium-blood
+		Montauk Assembly Defense            : https://www.moddb.com/mods/tiberium-essence/addons/montauk-assembly-defense
 
 	Актуальную версию локализатора можно скачать с репозитория на гитхабе: 
 		https://github.com/MahBoiTranslator/TiberiumEssenceRu
