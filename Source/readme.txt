@@ -34,6 +34,7 @@
 		Tiberium Blood                      : https://www.moddb.com/groups/tiberium-essence-fans/addons/tiberium-blood
 		Montauk Assembly Defense            : https://www.moddb.com/mods/tiberium-essence/addons/montauk-assembly-defense
 		GDI Ayers Rock                      : https://www.moddb.com/mods/tiberium-essence/addons/gdi-ayers-rock
+		Oprah Rich                          : https://www.moddb.com/mods/tiberium-essence/addons/te-oprah-rich
 
 	Актуальную версию локализатора можно скачать с репозитория на гитхабе: 
 		https://github.com/MahBoiTranslator/TiberiumEssenceRu
