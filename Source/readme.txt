@@ -17,24 +17,25 @@
 	Для работы переведённых карт их оригиналы с moddb не требуются.
 
 	Локализатор поддерживает перевод следующих карт и кампаний:
-		TS Slavik vs Hassan Campaign        : https://www.moddb.com/mods/tiberium-essence/addons/te-ts-slavik-vs-hassan-campaign-16-complete
-		Act I ZOCOM: The War That Never Was : https://www.moddb.com/mods/tiberium-essence/addons/te-zocom-origin
-		Act I Black Hand: Revelations       : https://www.moddb.com/mods/tiberium-essence/addons/te-black-hand-revelations-mission-1
-		Tiberian Sun Missions               : https://www.moddb.com/mods/tiberian-sun-missions-te
-		NOD Blue Fase                       : https://www.moddb.com/mods/tiberium-essence/addons/te-nod-blue-fase
-		Villainess In Distress              : https://www.moddb.com/mods/tiberium-essence/addons/te-villainess-in-distress
-		Nod's Revolution                    : https://www.moddb.com/addons/nods-revolution
-		Revenge of the Forgotten            : https://www.moddb.com/games/cc-tiberium-wars/addons/revenge-of-the-forgotten
-		TS Secure Crash Site                : https://www.moddb.com/mods/co-op-tiberian-sun-map-pack/addons/te-1-6-tiberian-sun-secure-the-crash-site-v14
-		COOP Evacuation                     : https://www.moddb.com/games/cc-tiberium-wars/addons/coop-evacuation-co-operative-mission
-		Just The Beginning                  : https://www.moddb.com/groups/tiberium-essence-campaign-makers/addons/just-the-beginning
-		Enhanced Mission Pack 1             : https://www.moddb.com/groups/tiberium-essence-fans/addons/tiberium-essence-mission-pack-1-enhanced
-		The War To End All Wars             : https://www.moddb.com/games/cc-tiberium-wars/addons/the-war-to-end-all-wars1
-		Desperate Times                     : https://www.moddb.com/games/cc-tiberium-wars/addons/desperate-times
-		Tiberium Blood                      : https://www.moddb.com/groups/tiberium-essence-fans/addons/tiberium-blood
-		Montauk Assembly Defense            : https://www.moddb.com/mods/tiberium-essence/addons/montauk-assembly-defense
-		GDI Ayers Rock                      : https://www.moddb.com/mods/tiberium-essence/addons/gdi-ayers-rock
-		Oprah Rich                          : https://www.moddb.com/mods/tiberium-essence/addons/te-oprah-rich
+		TS Slavik vs Hassan Campaign             : https://www.moddb.com/mods/tiberium-essence/addons/te-ts-slavik-vs-hassan-campaign-16-complete
+		Act I ZOCOM: The War That Never Was      : https://www.moddb.com/mods/tiberium-essence/addons/te-zocom-origin
+		Act I Black Hand: Revelations            : https://www.moddb.com/mods/tiberium-essence/addons/te-black-hand-revelations-mission-1
+		Steel Talons Bonus Mission: Extinguished : https://www.moddb.com/mods/tiberium-essence/addons/steel-talons-bonus-mission-extinguished
+		Tiberian Sun Missions                    : https://www.moddb.com/mods/tiberian-sun-missions-te
+		NOD Blue Fase                            : https://www.moddb.com/mods/tiberium-essence/addons/te-nod-blue-fase
+		Villainess In Distress                   : https://www.moddb.com/mods/tiberium-essence/addons/te-villainess-in-distress
+		Nod's Revolution                         : https://www.moddb.com/addons/nods-revolution
+		Revenge of the Forgotten                 : https://www.moddb.com/games/cc-tiberium-wars/addons/revenge-of-the-forgotten
+		TS Secure Crash Site                     : https://www.moddb.com/mods/co-op-tiberian-sun-map-pack/addons/te-1-6-tiberian-sun-secure-the-crash-site-v14
+		COOP Evacuation                          : https://www.moddb.com/games/cc-tiberium-wars/addons/coop-evacuation-co-operative-mission
+		Just The Beginning                       : https://www.moddb.com/groups/tiberium-essence-campaign-makers/addons/just-the-beginning
+		Enhanced Mission Pack 1                  : https://www.moddb.com/groups/tiberium-essence-fans/addons/tiberium-essence-mission-pack-1-enhanced
+		The War To End All Wars                  : https://www.moddb.com/games/cc-tiberium-wars/addons/the-war-to-end-all-wars1
+		Desperate Times                          : https://www.moddb.com/games/cc-tiberium-wars/addons/desperate-times
+		Tiberium Blood                           : https://www.moddb.com/groups/tiberium-essence-fans/addons/tiberium-blood
+		Montauk Assembly Defense                 : https://www.moddb.com/mods/tiberium-essence/addons/montauk-assembly-defense
+		GDI Ayers Rock                           : https://www.moddb.com/mods/tiberium-essence/addons/gdi-ayers-rock
+		Oprah Rich                               : https://www.moddb.com/mods/tiberium-essence/addons/te-oprah-rich
 
 	Актуальную версию локализатора можно скачать с репозитория на гитхабе: 
 		https://github.com/MahBoiTranslator/TiberiumEssenceRu
