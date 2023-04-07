@@ -17,11 +17,12 @@
 	Для работы переведённых карт их оригиналы с moddb не требуются.
 
 	Локализатор поддерживает перевод следующих карт и кампаний:
-		TS Slavik vs Hassan Campaign             : https://www.moddb.com/mods/tiberium-essence/addons/te-ts-slavik-vs-hassan-campaign-16-complete
 		Act I ZOCOM: The War That Never Was      : https://www.moddb.com/mods/tiberium-essence/addons/te-zocom-origin
 		Act I Black Hand: Revelations            : https://www.moddb.com/mods/tiberium-essence/addons/te-black-hand-revelations-mission-1
 		Steel Talons Bonus Mission: Extinguished : https://www.moddb.com/mods/tiberium-essence/addons/steel-talons-bonus-mission-extinguished
+		Scrin Missions                           : https://www.moddb.com/mods/tiberium-essence/addons/te-scrin-missions
 		Tiberian Sun Missions                    : https://www.moddb.com/mods/tiberian-sun-missions-te
+		TS Slavik vs Hassan Campaign             : https://www.moddb.com/mods/tiberium-essence/addons/te-ts-slavik-vs-hassan-campaign-16-complete
 		NOD Blue Fase                            : https://www.moddb.com/mods/tiberium-essence/addons/te-nod-blue-fase
 		Villainess In Distress                   : https://www.moddb.com/mods/tiberium-essence/addons/te-villainess-in-distress
 		Nod's Revolution                         : https://www.moddb.com/addons/nods-revolution
