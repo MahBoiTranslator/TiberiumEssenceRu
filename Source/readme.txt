@@ -17,7 +17,7 @@
 	Для работы переведённых карт их оригиналы с moddb не требуются.
 
 	Локализатор поддерживает перевод следующих карт и кампаний:
-		Cabal Сampaign: Year Zero                : https://www.moddb.com/mods/tiberium-essence/addons/te-fs-era-cabal-campaign-year-zero-updated
+		CABAL Сampaign: Year Zero                : https://www.moddb.com/mods/tiberium-essence/addons/te-fs-era-cabal-campaign-year-zero-updated
 		Act I ZOCOM: The War That Never Was      : https://www.moddb.com/mods/tiberium-essence/addons/te-zocom-origin
 		Act I Black Hand: Revelations            : https://www.moddb.com/mods/tiberium-essence/addons/te-black-hand-revelations-mission-1
 		Steel Talons Bonus Mission: Extinguished : https://www.moddb.com/mods/tiberium-essence/addons/steel-talons-bonus-mission-extinguished
