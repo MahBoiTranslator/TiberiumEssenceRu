@@ -17,6 +17,7 @@
 
 Локализатор поддерживает перевод следующих карт и кампаний:
 * [CABAL Сampaign: Year Zero](https://www.moddb.com/mods/tiberium-essence/addons/te-fs-era-cabal-campaign-year-zero-updated)
+* [Forgotten Campaign: Death and the Ghost](https://www.moddb.com/mods/tiberium-essence/addons/te-prequel-forgotten-death-and-the-ghost-campaign)
 * [Forgotten Campaign: Forgotten Dawn](https://www.moddb.com/mods/tiberium-essence/addons/fan-made-te-forgotten-mission)
 * [Act I ZOCOM: The War That Never Was](https://www.moddb.com/mods/tiberium-essence/addons/te-zocom-origin)
 * [Act I Black Hand: Revelations](https://www.moddb.com/mods/tiberium-essence/addons/te-black-hand-revelations-mission-1)
