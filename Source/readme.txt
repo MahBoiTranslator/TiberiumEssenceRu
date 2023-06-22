@@ -22,8 +22,9 @@
 		Forgotten Campaign: Forgotten Dawn       : https://www.moddb.com/mods/tiberium-essence/addons/fan-made-te-forgotten-mission
 		Act I ZOCOM: The War That Never Was      : https://www.moddb.com/mods/tiberium-essence/addons/te-zocom-origin
 		Act I Black Hand: Revelations            : https://www.moddb.com/mods/tiberium-essence/addons/te-black-hand-revelations-mission-1
-		Steel Talons Bonus Mission: Extinguished : https://www.moddb.com/mods/tiberium-essence/addons/steel-talons-bonus-mission-extinguished
 		Act II: Prologue                         : https://www.moddb.com/mods/tiberium-essence/addons/te-act-ii-prologue
+		Act II Steel Talons: Dying Sun           : https://www.moddb.com/mods/tiberium-essence/addons/te-act-ii-steel-talons-dying-sun
+		Steel Talons Bonus Mission: Extinguished : https://www.moddb.com/mods/tiberium-essence/addons/steel-talons-bonus-mission-extinguished
 		Scrin Missions                           : https://www.moddb.com/mods/tiberium-essence/addons/te-scrin-missions
 		Tiberian Sun Missions                    : https://www.moddb.com/mods/tiberian-sun-missions-te
 		TS Slavik vs Hassan Campaign             : https://www.moddb.com/mods/tiberium-essence/addons/te-ts-slavik-vs-hassan-campaign-16-complete
