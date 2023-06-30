@@ -24,7 +24,8 @@
 		Act I Black Hand: Revelations            : https://www.moddb.com/mods/tiberium-essence/addons/te-black-hand-revelations-mission-1
 		Act II: Prologue                         : https://www.moddb.com/mods/tiberium-essence/addons/te-act-ii-prologue
 		Act II Steel Talons: Dying Sun           : https://www.moddb.com/mods/tiberium-essence/addons/te-act-ii-steel-talons-dying-sun
-		Act II: Killian's Spirit                 : https://www.moddb.com/mods/tiberium-essence/addons/te-act-ii-nod-kilians-spirit-mission-1
+		Act II Nod: Killian's Spirit             : https://www.moddb.com/mods/tiberium-essence/addons/te-act-ii-nod-kilians-spirit-mission-1
+		Act III Divine: Dance of Death           : https://www.moddb.com/mods/tiberium-essence/addons/te-act-iii-divine-dance-of-death
 		Steel Talons Bonus Mission: Extinguished : https://www.moddb.com/mods/tiberium-essence/addons/steel-talons-bonus-mission-extinguished
 		Scrin Missions                           : https://www.moddb.com/mods/tiberium-essence/addons/te-scrin-missions
 		Tiberian Sun Missions                    : https://www.moddb.com/mods/tiberian-sun-missions-te
