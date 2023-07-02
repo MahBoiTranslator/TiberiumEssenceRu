@@ -27,6 +27,7 @@
 		Act II Nod: Killian's Spirit             : https://www.moddb.com/mods/tiberium-essence/addons/te-act-ii-nod-kilians-spirit-mission-1
 		Act III Divine: Dance of Death           : https://www.moddb.com/mods/tiberium-essence/addons/te-act-iii-divine-dance-of-death
 		Act III GDI: The Bitter End              : https://www.moddb.com/mods/tiberium-essence/addons/te-act-iii-gdi-the-bitter-end
+		Act IV Finale: Land of nod               : https://www.moddb.com/mods/tiberium-essence/addons/te-act-iv-finale-the-land-of-nod
 		Steel Talons Bonus Mission: Extinguished : https://www.moddb.com/mods/tiberium-essence/addons/steel-talons-bonus-mission-extinguished
 		Scrin Missions                           : https://www.moddb.com/mods/tiberium-essence/addons/te-scrin-missions
 		Tiberian Sun Missions                    : https://www.moddb.com/mods/tiberian-sun-missions-te
