@@ -3,7 +3,7 @@
 cd ..
 : Сборка .big файла перевода
 mkdir Translation
-start Tools\MakeBig.exe -f -o:Translation\TiberiumEssence2_Russian.big Source\csf
+start /wait "" Tools\MakeBig.exe -f -o:Translation\TiberiumEssence2_Russian.big Source\csf
 
 : Сборка русификатора
 copy Source\readme.txt                 Translation\readme.txt
