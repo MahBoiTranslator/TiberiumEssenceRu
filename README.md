@@ -1,5 +1,5 @@
 # Русификатор мода Tiberium Essence на Tiberium Wars
-[![Github All Releases](https://img.shields.io/github/downloads/MahBoiTranslator/TiberiumEssenceRu/total.svg)](https://github.com/MahBoiTranslator/TiberiumEssenceRu/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/MahBoiTranslator/TiberiumEssenceRu/total.svg)](https://github.com/MahBoiTranslator/TiberiumEssenceRu/releases) [![Support me on Boosty](https://img.shields.io/badge/boosty-50₽/месяц-green.svg?logo=boosty)](https://boosty.to/mah_boi)
 ## Описание локализатора
 Данный локализатор является неофициальным языковым патчем для мода Tiberium Essence, который переводит интерфейс и весь текст мода с английского языка на русский язык. Также вместе с русификатором поставляются адаптированные для перевода карты. Ниже приведено описание переведённых и не переведённых элементов.
 
