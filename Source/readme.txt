@@ -73,12 +73,12 @@
 
 Прочая информация
 	Подробнее про мод можно почитать по ссылке: 
-		https://cncseries.ru/tiberium-essence/.
+		https://cncseries.ru/tiberium-essence/
 
 	Вся информация по обновлению локализатора
 	 будет появляться в группе ВКонтакте 
 	 сайта C&C Series: 
-		https://vk.com/cncseries.
+		https://vk.com/cncseries
 
 	Если вам понравился перевод данного мода, 
 	 то советую вам также попробовать 
