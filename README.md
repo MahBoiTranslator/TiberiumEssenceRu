@@ -54,8 +54,15 @@
 1. Файлы из папки `Maps` скопируйте в папку по пути `%appdata%\Command & Conquer 3 Tiberium Wars\Maps`.
 2. Оставшиеся файлы русификатора (которые не лежат в папке Maps) скопируйте в папку с модом Tiberium Essence той же версии, что и русификатор, подтверждая замену.
 
-## Поддержка
-Если вы желаете, чтобы русификатор обновлялся сразу после выхода новой версии мода, а также постоянно поддерживался и развивался, то поддержите денежно мои старания на платформе [Boosty](https://boosty.to/mah_boi).
+## Благодарности
+* [Carnius](https://www.moddb.com/members/carnius) : Создание Tiberium Essence
+* [DarthJane](https://github.com/Qibbi) : Создание [WrathED](https://github.com/Qibbi/WrathEd2012)
+* [AlexanderMS](https://web.archive.org/web/20200411001236/http://alexanderms.narod.ru/AboutCSFEditor.html) : Создание редактора [Turbo String Table Editor](https://web.archive.org/web/20200411001236/http://alexanderms.narod.ru/AboutCSFEditor.html)
+* [Sgor00](https://www.moddb.com/members/sgor00) : Советы по переименованию и компиляции карт
+* [m3tro](https://www.youtube.com/c/m3tro_romhack) : Советы по скриптам World Builder
+* [MrChaser](https://www.youtube.com/@MrChaserDnB) : Клиннинг и популяризация перевода
 
 ## Прочая информация
 Подробнее про мод можно почитать [здесь](https://cncseries.ru/tiberium-essence/). Вся информация по обновлению локализатора оперативно появляется на моей странице на [Boosty](https://boosty.to/mah_boi), а также менее оперативно в группе сайта C&C Series во [ВКонтакте](https://vk.com/cncseries).
+
+Если вы желаете, чтобы русификатор обновлялся сразу после выхода новой версии мода, а также постоянно поддерживался и развивался, то поддержите денежно мои старания на платформе [Boosty](https://boosty.to/mah_boi).
