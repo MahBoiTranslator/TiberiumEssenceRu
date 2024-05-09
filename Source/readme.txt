@@ -46,7 +46,7 @@
 		Montauk Assembly Defense                 : https://www.moddb.com/mods/tiberium-essence/addons/montauk-assembly-defense
 		GDI Ayers Rock                           : https://www.moddb.com/mods/tiberium-essence/addons/gdi-ayers-rock
 		Oprah Rich                               : https://www.moddb.com/mods/tiberium-essence/addons/te-oprah-rich
-		TS GDI 1: Reinforece Phoenix Base        : https://cdn.discordapp.com/attachments/539769358654898190/1208850293245222912/TE_TS_GDI_1_RDS.zip
+		TS GDI 1: Reinforce Phoenix Base         : https://cdn.discordapp.com/attachments/539769358654898190/1208850293245222912/TE_TS_GDI_1_RDS.zip
 
 	Актуальную версию локализатора можно скачать с репозитория на гитхабе: 
 		https://github.com/MahBoiTranslator/TiberiumEssenceRu
