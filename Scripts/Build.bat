@@ -5,9 +5,10 @@ cd ..
 mkdir Translation
 start /wait "" Tools\MakeBig.exe -f -o:Translation\TiberiumEssence2_Russian.big Source\csf
 
-: Копирование описания
-copy Source\readme.txt                 Translation\readme.txt
-copy Source\TiberiumEssence_2.0.skudef Translation\TiberiumEssence_2.0.skudef
+: Копирование смежных файлов
+copy Source\readme.txt                         Translation\readme.txt
+copy Source\TiberiumEssence_2.0.skudef         Translation\TiberiumEssence_2.0.skudef
+copy Source\TiberiumEssence2_WithoutModStr.big Translation\TiberiumEssence2_WithoutModStr.big
 
 : Сборка карт
 mkdir Translation\Maps
